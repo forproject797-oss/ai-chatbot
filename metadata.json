@@ -1,0 +1,7 @@
+{
+  "name": "AI Medical Assistant Chatbot",
+  "description": "An intelligent chatbot designed to help users check symptoms, perform safe triage, and guide them toward booking appointments with healthcare professionals. This app does not provide medical diagnoses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
